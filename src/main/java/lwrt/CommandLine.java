@@ -297,6 +297,7 @@ public abstract class CommandLine {
                 }
                 // Launch using tf_win64.exe
                 options.put("-steam", "");
+                options.put("-force32bit", "");
             }
             // Additional options
             options.put("-dxlevel", cfg.getDxlevel());
