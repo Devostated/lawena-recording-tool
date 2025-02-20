@@ -297,7 +297,6 @@ public abstract class CommandLine {
                 }
                 // Launch using hl2.exe
                 options.put("-steam", "");
-                options.put("-game", "tf");
             }
             // Additional options
             options.put("-dxlevel", cfg.getDxlevel());
