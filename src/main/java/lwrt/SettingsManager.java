@@ -523,7 +523,7 @@ public class SettingsManager {
         BigFolderMBThreshold(200, 0, Integer.MAX_VALUE),
         SetSystemLookAndFeel(true),
         HlaePath(""),
-        LaunchMode("hl2"),
+        LaunchMode("tf_win64"),
         LaunchOptions("-novid -console");
 
         private Object value;

@@ -295,7 +295,7 @@ public abstract class CommandLine {
                 if (mode.equals("hlae")) {
                     options.put("-insecure", "");
                 }
-                // Launch using hl2.exe
+                // Launch using tf_win64.exe
                 options.put("-steam", "");
             }
             // Additional options
